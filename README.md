@@ -2,7 +2,7 @@
 
 * First Pull the application from the repo: https://github.com/babsgenius2001/PolishNotationComputation.git
 
-* Compile the whole application - SinchTechnicalAssignment by running:
+* Compile the whole application - PolishNotationComputation by running:
 
 ```
 mvn clean package

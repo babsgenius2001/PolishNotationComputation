@@ -1,6 +1,6 @@
 # Getting Started
 
-* First Pull the application from the repo: https://github.com/babsgenius2001/SinchTechnicalAssignment.git
+* First Pull the application from the repo: https://github.com/babsgenius2001/PolishNotationComputation.git
 
 * Compile the whole application - SinchTechnicalAssignment by running:
 
